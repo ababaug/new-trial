@@ -1,0 +1,17 @@
+section {
+    height: 100vh;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0;
+    
+}
+
+@media screen and (max-width: 600px) {
+    h1 {
+        color: red;
+    }
+}
